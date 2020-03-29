@@ -1,8 +1,8 @@
-# Sublime Text 3
+# My Sublime Text 3
 
 I am currently using [Sublime Text 3](https://www.sublimetext.com/3). I've also been using [VSCode](https://code.visualstudio.com/) for quite a while. They are both really good editors, but I experienced Sublime Text being a bit snappier and it's the overall minimalistic UI I do prefer more.
 
-## User Settings
+## My User Settings
 
 These are my personal `User settings`. You can access the setting quickly by typing `cmd + ;` on Mac or `ctrl + ;` on windows maschines.
 
@@ -37,7 +37,7 @@ These are my personal `User settings`. You can access the setting quickly by typ
 }
 ```
 
-## Plugins
+## My Plugins
 
 The following shows a list of plugins that I personally use.
 

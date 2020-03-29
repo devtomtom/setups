@@ -43,7 +43,7 @@ The following shows a list of plugins that I personally use.
 
 - [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter): As the name says, it highlights the brackets such as `[]`, `{}` in your code which is pretty helpful.
 
-- [DocBlockr](https://packagecontrol.io/packages/DocBlockr) is pretty convenient in terms of API documentation. Just type `/]()` then the *Enter*-key and the parameters parsed and some documentation is added automatically.
+- [DocBlockr](https://packagecontrol.io/packages/DocBlockr) is pretty convenient in terms of API documentation. Just type `/**` then the *Enter*-key and the parameters are parsed and some documentation is added automatically.
 
 - [ESLint](https://packagecontrol.io/packages/ESLint) & [SublimeLinter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint)
 
